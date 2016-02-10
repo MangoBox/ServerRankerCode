@@ -1,0 +1,7 @@
+name: ServerRanker
+main: mangobox.serverranker.ServerRanker
+version: 1.0
+commands:
+   rank:
+      description: Blank description.
+      usage: /<command>
